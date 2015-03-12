@@ -29,7 +29,7 @@ include "header.php";
   <a href="http://www.petroueyecare.com"><img src="images/sponsors/petrou-eye-care.png" alt="Petro Eye Care"></a>
   <a href="http://www.greatlakesdistillery.com"><img src="images/sponsors/rehorst.png" alt="Rehorst Vodka and Gin"></a>
   <a href="http://www.greatlakesdistillery.com"><img src="images/sponsors/great-lakes-distillery.png" alt="Great Lakes Distillery"></a>
-  <a href="http://www.foresitegrp.com"><img src="images/sponsors/remedi-creative.png" alt="Remedi Creative"></a>
+  <a href="http://www.foresitegrp.com"><img src="images/sponsors/foresite-group.png" alt="Foresite Group"></a>
 </div>
 
 <br><br><br>

@@ -27,14 +27,14 @@ include "header.php";
   <?php email("contactus@louieslast.org"); ?><br>
   <br>
 
-  <strong>Officers &amp; Board of Directors</strong><br>
+  <strong>Officers &amp; Board of Directors</strong><!-- <br>
   Dana Felton Reinhard, President, Director<br>
   Gordy King, Treasurer, Director<br>
   Seth Goettelman, Secretary, Director<br>
   Scott Conger, Director<br>
   Craig Griffith, Director<br>
   Tim Kent, Director<br>
-  Mary Livingston, Director
+  Mary Livingston, Director -->
 </div>
 
 <div class="form-right">
