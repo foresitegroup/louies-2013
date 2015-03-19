@@ -27,14 +27,15 @@ include "header.php";
   <?php email("contactus@louieslast.org"); ?><br>
   <br>
 
-  <strong>Officers &amp; Board of Directors</strong><!-- <br>
-  Dana Felton Reinhard, President, Director<br>
-  Gordy King, Treasurer, Director<br>
-  Seth Goettelman, Secretary, Director<br>
-  Scott Conger, Director<br>
-  Craig Griffith, Director<br>
-  Tim Kent, Director<br>
-  Mary Livingston, Director -->
+  <strong>Officers &amp; Board of Directors</strong><br>
+  Gordy King<br>
+  Mary Livingston<br>
+  Tim Kent<br>
+  Rebecca Mueller<br>
+  Tiffany Cvikota<br>
+  Hailey King, ad hoc member<br>
+  Francis Morton, ad hoc member<br>
+  Nick Cusatis, ad hoc member
 </div>
 
 <div class="form-right">
