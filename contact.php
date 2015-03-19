@@ -33,7 +33,7 @@ include "header.php";
   Tim Kent<br>
   Rebecca Mueller<br>
   Tiffany Cvikota<br>
-  Hailey King, ad hoc member<br>
+  Haley King, ad hoc member<br>
   Francis Morton, ad hoc member<br>
   Nick Cusatis, ad hoc member
 </div>
