@@ -6,14 +6,14 @@ include "header.php";
 
 <h3>Trophies Presented</h3>
 
-<div class="trophy-img">
+<!-- <div class="trophy-img">
   <img src="images/trophy-poker-run.jpg" alt="Louie's Last Poker Run Trophy">
 </div>
 <div class="trophy-text">
   <strong>Louie's Last Poker Run Trophy</strong><br>
   Commissioned for Louie's 1st Last Poker Run in 2013, this trophy is awarded to the boat with the best hand presented from the powerboat poker run fleet.
 </div>
-<div style="clear: both; height: 2em"></div>
+<div style="clear: both; height: 2em"></div> -->
 
 <div class="trophy-img">
   <img src="images/trophy-maggie-bersch-cup.jpg" alt="Maggie Bersch Cup">

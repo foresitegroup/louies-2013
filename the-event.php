@@ -19,7 +19,7 @@ This will be the third year that the Porker Run will be held.<br>
 <ul>
   <li>May 7th Launch Party</li>
   <li>Pre-race online fund raising by boat</li>
-  <li>Captains Meeting Friday September 25th for sailors and power boaters</li>
+  <li>Captains Meeting Friday September 25th for sailors</li>
   <li>Louie's Last Regatta held on the famous beer can (shaped) course</li>
   <li>Post race dock side party</li>
   <li>Raffle</li>

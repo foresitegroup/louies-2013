@@ -6,7 +6,7 @@ include "header.php";
 
 <h3>Louie's 17th Last Regatta</h3>
 
-Louie's Last Regatta has raised over $1,088,000 for Children's Hospital of Wisconsin since 1999.  Children's is ranked number four in the nation - number one in preemie and newborn care and number three in emergency care by Parent's Magazine.  Louie's is working hard toward that second million raised with the 17th Last Regatta and 3rd Last Poker Run this year!<br>
+Louie's Last Regatta has raised over $1,088,000 for Children's Hospital of Wisconsin since 1999.  Children's is ranked number four in the nation - number one in preemie and newborn care and number three in emergency care by Parent's Magazine.  Louie's is working hard toward that second million raised with the 17th Last Regatta this year!<br>
 <br>
 
 <!-- Please help Louie's this year by posting <a href="pdfs/2014_Poster_Regatta.pdf">this flyer</a> on your bulletin boards to help promote the cause!  We would also very much appreciate your distributing the flyer by print and/or email.<br>
