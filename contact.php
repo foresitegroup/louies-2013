@@ -20,7 +20,8 @@ include "header.php";
   <br>
 
   <strong>Board Phone (President)</strong><br>
-  414-840-3262<br>
+  414-530-8397<br>
+  262-951-0148<br>
   <br>
 
   <strong>Email</strong><br>
