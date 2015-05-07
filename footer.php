@@ -67,6 +67,7 @@
           <!-- <a href="#"><img src="<?php echo $TopDir; ?>images/social-google-plus.png" alt="Google+"></a> -->
           <a href="http://www.facebook.com/LouiesLastRegatta"><img src="<?php echo $TopDir; ?>images/social-facebook.png" alt="Facebook"></a>
           <a href="http://twitter.com/llregatta"><img src="<?php echo $TopDir; ?>images/social-twitter.png" alt="Twitter"></a>
+          <a href="https://instagram.com/louieslast"><img src="<?php echo $TopDir; ?>images/social-instagram.png" alt="Instagram"></a>
         </div>
       </footer>
     </div> <!-- END footer-wrap -->
