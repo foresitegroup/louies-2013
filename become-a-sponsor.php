@@ -1,6 +1,6 @@
 <?php
 $PageTitle = "Become a Sponsor";
-$SideImage = "sponsors/remedi-creative.png|sponsors/milwaukee-brewing-company.png|sponsors/ameriprise-financial.png|sponsors/north-sails.png";
+$SideImage = "sponsors/foresite-group.png|sponsors/milwaukee-brewing-company.png|sponsors/ameriprise-financial.png|sponsors/north-sails.png";
 include "header.php";
 
 // Settings for randomizing the field names
