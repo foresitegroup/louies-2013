@@ -10,9 +10,9 @@ include "header.php";
     <br>
 
     <h2>Important Dates for 2015</h2>
-    <strong>Launch Party</strong><br>
-    Thursday, May 7th, 6:00pm<br>
-    Milwaukee Ale House Lower Hopside Bar &amp; Patio<br>
+    <strong>Captain's Meeting</strong><br>
+    Friday, September 25th, 6:00pm<br>
+    Milwaukee Ale House<br>
     <br>
 
     <strong>Louie's Last Regatta</strong><br>
