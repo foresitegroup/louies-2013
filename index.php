@@ -11,7 +11,7 @@ include "header.php";
 
     <h2>Important Dates for 2015</h2>
     <strong>Captain's Meeting</strong><br>
-    Friday, September 25th, 6:00pm<br>
+    Friday, September 25th, 7:00pm<br>
     Milwaukee Ale House<br>
     <br>
 

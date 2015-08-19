@@ -15,7 +15,7 @@ Louie's Last Regatta has raised over $1,088,000 for Children's Hospital of Wisco
 <br>
 
 <strong>SKIPPERS' MEETING</strong><br>
-Friday, September 25, 2014, 7:00pm<br>
+Friday, September 25, 2015, 7:00pm<br>
 Milwaukee Ale House<br>
 <br>
 
