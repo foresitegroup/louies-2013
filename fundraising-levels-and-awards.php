@@ -25,64 +25,37 @@ Boats/Fundraising Teams who raise money for Children's Hospital of Wisconsin thr
   </tr>
   <tr class="spiff-left">
     <td style="vertical-align: top; padding: 0.5em 0 0.5em 0.5em; text-align: right;">$250</td>
-    <td style="padding: 0.5em 1em 0.5em 2em;">Long Sleeve Mount Gay T-Shirt</td>
+    <td style="padding: 0.5em 1em 0.5em 2em;">Mount Gay Blanket</td>
   </tr>
   <tr class="spiff-mid">
     <td style="vertical-align: top; padding: 0.5em 0 0.5em 0.5em; text-align: right;">$500</td>
     <td style="padding: 0.5em 1em 0.5em 2em;">
-      Port Authority Tote Cooler<br>
-      Long Sleeve Mount Gay T-Shirt
+      Mount Gay Moisture Wicking Polo (Men's or Women's)
     </td>
   </tr>
   <tr class="spiff-right">
     <td style="vertical-align: top; padding: 0.5em 0 0.5em 0.5em;">$1,000</td>
     <td style="padding: 0.5em 1em 0.5em 2em;">
-      Sport-Tek 1/4 ZipSport-Wick Fleece<br>
-      Long Sleeve Mount Gay T-Shirt
+      Mount Gay Blanket<br>
+      Mount Gay Moisture Wicking Polo (Men's or Women's)
     </td>
   </tr>
   <tr class="spiff-left">
-    <td style="vertical-align: top; padding: 0.5em 0 0.5em 0.5em;">$1,500</td>
-    <td style="padding: 0.5em 1em 0.5em 2em;">
-      Port Authority Tote Cooler<br>
-      Sport-Tek 1/4 ZipSport-Wick Fleeces<br>
-      2 Long Sleeve Mount Gay T-Shirts
-    </td>
-  </tr>
-  <tr class="spiff-mid">
     <td style="vertical-align: top; padding: 0.5em 0 0.5em 0.5em;">$2,000</td>
     <td style="padding: 0.5em 1em 0.5em 2em;">
-      Port Authority Tote Cooler<br>
-      2 Sport-Tek 1/4 ZipSport-Wick Fleeces<br>
-      2 Sport-Tek Performance Knit Caps
-    </td>
-  </tr>
-  <tr class="spiff-right">
-    <td style="vertical-align: top; padding: 0.5em 0 0.5em 0.5em;">$2,500</td>
-    <td style="padding: 0.5em 1em 0.5em 2em;">
-      Port Authority Tote Cooler<br>
-      2 Sport-Tek 1/4 ZipSport-Wick Fleeces<br>
-      2 Sport-Tek Performance Knit Caps<br>
-      2 Long Sleeve Mount Gay T-Shirts
-    </td>
-  </tr>
-  <tr class="spiff-left">
-    <td style="vertical-align: top; padding: 0.5em 0 0.5em 0.5em;">$3,000</td>
-    <td style="padding: 0.5em 1em 0.5em 2em;">
-      Port Authority Tote Cooler<br>
-      2 Sport-Tek 1/4 ZipSport-Wick  Fleeces<br>
-      2 Sport-Tek Performance Knit Cap<br>
-      2 Long Sleeve Mount Gay T-Shirts<br>
-      2 Tech Tees with BOATNAME
+      Mount Gay Blanket<br>
+      Mount Gay Glasses or Polo (Men's or Women's)<br>
+      Mount Gay Legacy Jacket (Men's or Women's)
     </td>
   </tr>
   <tr class="spiff-mid">
     <td style="vertical-align: top; padding: 0.5em 0 0.5em 0.5em;">$4,000</td>
-    <td style="padding: 0.5em 1em 0.5em 2em;">Above with 4 tech tees (total) with BOATNAME</td>
-  </tr>
-  <tr class="spiff-right">
-    <td style="vertical-align: top; padding: 0.5em 0 0.5em 0.5em;">$5,000</td>
-    <td style="padding: 0.5em 1em 0.5em 2em;">Above with 8 tech tees (total) with BOATNAME</td>
+    <td style="padding: 0.5em 1em 0.5em 2em;">
+      Mount Gay Blanket<br>
+      Mount Gay Glasses or Polo (Men's or Women's)<br>
+      Mount Gay Legacy Jacket (Men's or Women's)<br>
+      4 Long Sleeve Shirts with Boat Name
+    </td>
   </tr>
 </table><br>
 <br>
