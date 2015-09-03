@@ -30,12 +30,11 @@ Held off the Milwaukee shoreline in the waters of Lake Michigan, Louie's attract
 Race entry is online only. The deadline is Noon on Thursday, September 24th 2015.<br>
 <br>
 
-Please visit the <a href="http://www.regattanetwork.com/event/10100">Online Registration page</a> to enter and fill in all the required fields. Have your credit card handy. Note: This is a secure registration site widely used by US Sailing.<!-- <br>
+Please visit the <a href="http://www.regattanetwork.com/event/10100">Online Registration page</a> to enter and fill in all the required fields. Have your credit card handy. Note: This is a secure registration site widely used by US Sailing.<br>
 <br>
 
-<a href="pdfs/2014_Notice_of_Race.pdf">Notice of Race (NOR)</a><br>
-<a href="pdfs/2014_Program.pdf">Program</a><br>
-<a href="pdfs/2014_Sailing_Instructions.pdf">Sailing Instructions</a><br>
-<a href="pdfs/2014_Beer_Can_Course.pdf">Beer Can Course</a> -->
+<a href="pdfs/2015_Notice_of_Race.pdf">Notice of Race (NOR)</a><br>
+<a href="pdfs/2015_Sailing_Instructions.pdf">Sailing Instructions</a><br>
+<a href="pdfs/2015_Beer_Can_Course.pdf">Beer Can Course</a>
 
 <?php include "footer.php"; ?>
