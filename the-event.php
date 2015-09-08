@@ -25,6 +25,9 @@ This will be the third year that the Porker Run will be held.<br>
   <li>Raffle</li>
   <li>Live Music</li>
   <li>Award Ceremony</li>
-</ul>
+</ul><br>
+<br>
+
+<img src="images/2015-bloody-bar.jpg" alt="" style="max-width: 100%;">
 
 <?php include "footer.php"; ?>
