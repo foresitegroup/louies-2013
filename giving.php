@@ -26,7 +26,8 @@ Use Razoo to make direct donation(s) from boat crews, friends and family to Chil
 <br>
 
 <strong>Give Raffle Items</strong><br>
-Gifts can be given for the raffle held during the post-race party. To give items please contact us at <?php email("contactus@louislast.org"); ?>, with delivery by September 15th to 400 N. Executive Dr. Suite 100, Brookfield, WI 53005.<br>
+
+Gifts can be given for the raffle held during the post-race party. To give items please contact Gordy King at 414-530-8397 or contact us at <?php email("contactus@louislast.org"); ?>. Deliveries can be made out to: PO Box 45 Milwaukee WI, 53201.<br>
 <br>
 
 <div class="toggle-box spiff-mid">
