@@ -27,7 +27,7 @@ Use Razoo to make direct donation(s) from boat crews, friends and family to Chil
 
 <strong>Give Raffle Items</strong><br>
 
-Gifts can be given for the raffle held during the post-race party. To give items please contact Gordy King at 414-530-8397 or contact us at <?php email("contactus@louislast.org"); ?>. Deliveries can be made out to: PO Box 45 Milwaukee WI, 53201.<br>
+Gifts can be given for the raffle held during the post-race party. To give items please contact Gordy King at 414-530-8397 or contact us at <?php email("contactus@louislast.org"); ?>. Deliveries can be made out to the Milwaukee Ale House: 233 N Water St #1, Milwaukee, WI 53202.<br>
 <br>
 
 <div class="toggle-box spiff-mid">
