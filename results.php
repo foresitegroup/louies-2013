@@ -46,6 +46,48 @@ function Color($spiff) {
 ?>
 
 <div class="toggle-box spiff-<?php $spiff = Color($spiff); echo $spiff; ?>">
+  <h3>2015</h3>
+  <div class="toggle-control" data-text="expand &#9660;" data-expanded-text="contract &#9650;">expand &#9660;</div>
+  <div style="clear: both;"></div>
+  <div class="toggle-content">
+    <a href="pdfs/2015_Results.pdf">Complete Results</a><br>
+    <br>
+
+    <strong>Louie's Cup - Love Rock Section</strong><br>
+    1st - Defiance (Dale Smirl)<br>
+    2nd - Imedi (Mark Hauf)<br>
+    3rd - Blue (Michael Schoendorf)<br>
+    <br>
+
+    <strong>Louie's Cup - Solomon Juneau Section</strong><br>
+    1st - Prop Job (Joe McBride)<br>
+    2nd - Chautauqua (Mark Ernst)<br>
+    3rd - Kindred Spirit (Karl Krueger)<br>
+    <br>
+
+    <strong>Flounder</strong><br>
+    Love Rock - Cattywampus (Clay Greene)<br>
+    Solomon Juneau - Allegro (Joe Buck)<br>
+    <br>
+
+    <strong>Cutlass - Most Uniquely Attired Crew</strong><br>
+    Instigator (Matthew Merger)<br>
+    <br>
+
+    <strong>Maggie Bersch Memorial Cup for Top Fundraiser</strong><br>
+    1st - YOLO (Darryl Green)<br>
+    2nd - Get Kraken (Robin Olson)<br>
+    3rd - Debbia (Mike Kenny)<br>
+    <br>
+
+    <strong>Debbia Grassroots Cup for Highest Number of Individual Donors</strong><br>
+    1st - Debbia (Mike Kenny) - 212 donations<br>
+    2nd - Eclipse (Ken Quant) - 164 donations<br>
+    3rd - YOLO (Darryl Green) - 74 donations<br>
+  </div>
+</div>
+
+<div class="toggle-box spiff-<?php $spiff = Color($spiff); echo $spiff; ?>">
   <h3>2014</h3>
   <div class="toggle-control" data-text="expand &#9660;" data-expanded-text="contract &#9650;">expand &#9660;</div>
   <div style="clear: both;"></div>

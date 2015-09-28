@@ -7,13 +7,13 @@ include "header.php";
 <h3>Gallery</h3>
 
 <strong>Share Your Photos &amp; Videos With Us!</strong><br>
-Your Louie's Committee is looking for pictures to share with everyone on Facebook. Show off any great photos (or videos) you've taken on the <a href="http://www.facebook.com/LouiesLastRegatta">Louie's Last Regatta Facebook page</a>.<!--  Also please visit <a href="http://knotjustracing.smugmug.com/Sailing-Events/Louies-Last-Regatta-2014/44645130_3TrmDQ">Chris Gribble's (the official Louie's photographer) website</a> for more event photos. --><br>
+Your Louie's Committee is looking for pictures to share with everyone on Facebook. Show off any great photos (or videos) you've taken on the <a href="http://www.facebook.com/LouiesLastRegatta">Louie's Last Regatta Facebook page</a>. Also please visit <a href="http://knotjustracing.smugmug.com/Sailing-Events/Louies-Last-Regatta-2014/44645130_3TrmDQ">Chris Gribble's (the official Louie's photographer) website</a> for more event photos.<br>
 <br>
 
-<strong>2015 Louie's Last Regatta</strong><br>
+<strong>2014 Louie's Last Regatta</strong><br>
 <div id="gallery">
   <?php
-  $main_dir = "images/galleries/2015";
+  $main_dir = "images/galleries/2014";
 
   $files = scandir($main_dir);
   foreach($files as $file) {
