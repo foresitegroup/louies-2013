@@ -66,7 +66,6 @@ function Color($spiff) {
     <br>
 
     <strong>Flounder</strong><br>
-    Love Rock - Cattywampus (Clay Greene)<br>
     Solomon Juneau - Allegro (Joe Buck)<br>
     <br>
 
