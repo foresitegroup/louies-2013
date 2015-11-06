@@ -29,7 +29,7 @@ include "header.php";
     <br>
 
     <h2>Videos From Louie's 2015</h2>
-    We've added a couple of gorgeous videos to our new video page. <a href="video.php">Check them out!</a>
+    We've added a couple of gorgeous videos to our new video page. <a href="videos.php">Check them out!</a>
   </div> <!-- END frosted -->
 </div> <!-- END vertical-center -->
 
