@@ -16,8 +16,8 @@ function email($address, $name="") {
     <link rel="apple-touch-icon" href="<?php echo $TopDir; ?>images/apple-touch-icon.png">
 
     <meta name="description" content="A fun filled weekend of sailing and fund raising for Children's Hospital of Wisconsin, held off the Milwaukee shoreline in the summer warmed waters of Lake Michigan.">
-    <meta name="keywords" content="Louie's Last Regatta, 10th, children's hospital, Maggie Bersch, Milwaukee charity, Mount Gay Rum, Milwaukee yacht club, sailing Milwaukee, charity regatta, best charities, best regattas, top ten regatta, sailing magazine, south shore yacht club, ale house, Milwaukee brewing company, Louie's Demise, MCSC, community sailing center, McKinley marina, Remedi creative, Harken, PHRF, Crew Challenge">
-    <meta name="author" content="Remedi Creative">
+    <meta name="keywords" content="Louie's Last Regatta, 10th, children's hospital, Maggie Bersch, Milwaukee charity, Mount Gay Rum, Milwaukee yacht club, sailing Milwaukee, charity regatta, best charities, best regattas, top ten regatta, sailing magazine, south shore yacht club, ale house, Milwaukee brewing company, Louie's Demise, MCSC, community sailing center, McKinley marina, Foresite Group, Remedi Creative, Harken, PHRF, Crew Challenge">
+    <meta name="author" content="Foresite Group">
 
     <meta name="viewport" content="width=device-width">
     <link href='http://fonts.googleapis.com/css?family=Bevan|Open+Sans:400,400italic,600,600italic,700,700italic' rel='stylesheet' type='text/css'>
