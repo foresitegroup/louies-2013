@@ -79,7 +79,6 @@ UL, OL {
   padding: 0 0 0 0.8em;
 }
 
-
 FORM {
   width: 60%;
 }
@@ -115,6 +114,24 @@ TEXTAREA {
 .form-right {
   float: right;
   width: 49%;
+}
+
+.video {
+  position: relative;
+  padding-bottom: 56.25%;
+  height: 0;
+  overflow: hidden;
+  max-width: 100%;
+}
+ 
+.video iframe,
+.video object,
+.video embed {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
 }
 
 .header-text {
@@ -401,6 +418,16 @@ FOOTER {
 .right {
   float: right;
   margin-left: 2em;
+}
+
+.one-third {
+  float: left;
+  width: 30%;
+  margin-right: 5%;
+}
+
+.one-third.last {
+  margin-right: 0;
 }
 
 .toggle-box {
@@ -737,6 +764,7 @@ FOOTER {
 
   H2, ASIDE H2 {
     font-size: 130%;
+    line-height: 1em;
   }
 
   H3 {
@@ -835,6 +863,13 @@ FOOTER {
 
   .right {
     margin-left: 1em;
+  }
+
+  .one-third {
+    float: none;
+    width: 100%;
+    margin-right: 0;
+    padding-bottom: 0.5em;
   }
 
   #gallery .resize {

@@ -64,10 +64,11 @@
         <a href="http://www.chw.org"><img src="<?php echo $TopDir; ?>images/logo-childrens-hospital.png" alt="Children's Hospital of Wisconsin" id="ch-logo"></a>
         
         <div id="social">
-          <!-- <a href="#"><img src="<?php echo $TopDir; ?>images/social-google-plus.png" alt="Google+"></a> -->
+          <!-- <a href="#"><img src="<?php //echo $TopDir; ?>images/social-google-plus.png" alt="Google+"></a> -->
           <a href="http://www.facebook.com/LouiesLastRegatta"><img src="<?php echo $TopDir; ?>images/social-facebook.png" alt="Facebook"></a>
           <a href="http://twitter.com/llregatta"><img src="<?php echo $TopDir; ?>images/social-twitter.png" alt="Twitter"></a>
           <a href="https://instagram.com/louieslast"><img src="<?php echo $TopDir; ?>images/social-instagram.png" alt="Instagram"></a>
+          <a href="https://www.youtube.com/channel/UCTqEGfa9SrdH_9lX22aKaqQ"><img src="<?php echo $TopDir; ?>images/social-youtube.png" alt="YouTube"></a>
         </div>
       </footer>
     </div> <!-- END footer-wrap -->

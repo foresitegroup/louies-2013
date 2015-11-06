@@ -9,19 +9,27 @@ include "header.php";
     Louie's is one of the nation's largest fundraising regattas. It is a fun filled weekend of sailing and fundraising for Children's Hospital of Wisconsin.<br>
     <br>
 
-    <h2>Important Dates for 2015</h2>
-    <strong>Captain's Meeting</strong><br>
-    Friday, September 25th, 7:00pm<br>
-    Milwaukee Ale House<br>
+    <h2>Important Dates for 2016</h2>
+    <div class="one-third">
+      <strong>Kick-Off Party</strong><br>
+      May 12
+    </div>
+    
+    <div class="one-third">
+      <strong>Louie's Last Regatta</strong><br>
+      September 24
+    </div>
+    
+    <div class="one-third last">
+      <strong>Awards Party</strong><br>
+      November 3
+    </div>
+
+    <div style="clear: both;"></div>
     <br>
 
-    <strong>Louie's Last Regatta</strong><br>
-    Saturday, September 26th, High Noon<br>
-    <br>
-
-    <strong>Thank You Party</strong><br>
-    Thursday, November 5th, 7:00pm<br>
-    Milwaukee Ale House Main Stage &amp; Bar
+    <h2>Videos From Louie's 2015</h2>
+    We've added a couple of gorgeous videos to our new video page. <a href="video.php">Check them out!</a>
   </div> <!-- END frosted -->
 </div> <!-- END vertical-center -->
 

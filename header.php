@@ -91,6 +91,7 @@ function email($address, $name="") {
                   <li><a href="<?php echo $TopDir; ?>results.php">Results</a></li>
                   <li><a href="<?php echo $TopDir; ?>media-press.php">Media / Press</a></li>
                   <li><a href="<?php echo $TopDir; ?>gallery.php">Gallery</a></li>
+                  <li><a href="<?php echo $TopDir; ?>videos.php">Videos</a></li>
                   <li><a href="<?php echo $TopDir; ?>blog">Kids Win!</a></li>
                 </ul>
               </li>
