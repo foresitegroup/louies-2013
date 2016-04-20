@@ -14,7 +14,7 @@ Louie's 18th Last Regatta will be held this year on September 24th. The skippers
 
 <strong>Louie's 18th Last Regatta highlights include:</strong><br>
 <ul>
-  <li>May 12th Launch Party</li>
+  <li>May 12th Launch Party 7:00pm</li>
   <li>Pre-race online fund raising by boat</li>
   <li>Captains Meeting Friday September 23th for sailors</li>
   <li>Louie's Last Regatta held on the famous beer can (shaped) course</li>

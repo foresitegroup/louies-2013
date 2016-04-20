@@ -12,7 +12,7 @@ include "header.php";
     <h2>Important Dates for 2016</h2>
     <div class="one-third">
       <strong>Kick-Off Party</strong><br>
-      May 12
+      May 12 7:00pm
     </div>
     
     <div class="one-third">

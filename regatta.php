@@ -20,14 +20,14 @@ Milwaukee Ale House<br>
 <br>
 
 <strong>LOUIE'S 18TH LAST REGATTA</strong><br>
-Saturday, September 24th, 2015, High Noon, off the Main Gap<br>
+Saturday, September 24th, 2016, High Noon, off the Main Gap<br>
 Lake Michigan<br>
 <br>
 
 Held off the Milwaukee shoreline in the waters of Lake Michigan, Louie's attracts hundreds of boats and thousands of sailors and fans to the Milwaukee sailing/fund raising scene.<br>
 <br>
 
-Race entry is online only. The deadline is Noon on Thursday, September 22 2016.<!-- <br>
+Race entry is online only. The deadline is Noon on Thursday, September 22, 2016.<!-- <br>
 <br>
 
 Please visit the <a href="http://www.regattanetwork.com/event/10100">Online Registration page</a> to enter and fill in all the required fields. Have your credit card handy. Note: This is a secure registration site widely used by US Sailing.<br>
