@@ -16,13 +16,13 @@ include "header.php";
     </div>
     
     <div class="one-third">
-      <strong>Louie's Last Regatta</strong><br>
-      September 24
+      <strong>Skippers Meeting</strong><br>
+      September 23
     </div>
     
     <div class="one-third last">
-      <strong>Awards Party</strong><br>
-      November 3
+      <strong>Louie's Last Regatta</strong><br>
+      September 24
     </div>
 
     <div style="clear: both;"></div>
