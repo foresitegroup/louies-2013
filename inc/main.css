@@ -116,6 +116,16 @@ TEXTAREA {
   width: 49%;
 }
 
+.one-half {
+  float: left;
+  width: 49%;
+  margin-bottom: 2em;
+}
+
+.one-half.last {
+  float: right;
+}
+
 .video {
   position: relative;
   padding-bottom: 56.25%;
@@ -509,6 +519,53 @@ FOOTER {
   width: 80%;
 }
 
+.mailchimp {
+  padding: 1em 1.5em;
+  background: #00ABA2;
+  color: #FFFFFF;
+  font-family: Bevan,Rockwell, Arvo, 'Palatino Linotype', 'Book Antiqua', Palatino, 'Times New Roman', serif;
+  font-weight: normal;
+  font-size: 140%;
+  line-height: 1.3em;
+  text-align: center;
+  margin-bottom: 2em;
+}
+
+.mailchimp DIV {
+  position: relative;
+  margin-top: 0.5em;
+}
+
+.mailchimp INPUT[type="text"],
+.mailchimp INPUT[type="email"] {
+  border: 0;
+  box-sizing: border-box;
+  width: 100%;
+  padding: 0 0.75em;
+  background: #FFFFFF;
+  color: #454545;
+  font-family: 'Open Sans', Arial, Helvetica, sans-serif;
+  font-size: 14px;
+  line-height: 1em;
+  -webkit-appearance: none; /* I prefer my styles, Steve Jobs */
+  border-radius: 0; /* I prefer my styles, Steve Jobs */
+  outline: 0;
+  overflow: auto; /* Good ol' IE */
+}
+
+.mailchimp INPUT[type="submit"] {
+  position: absolute;
+  top: 0;
+  right: 0;
+  font-size: 16px;
+  padding: 8px 1em;
+  border: 0;
+  background: #00539F;
+  color: #FFFFFF;
+  outline: 0;
+  cursor: pointer;
+}
+
 @media only screen and (max-width: 800px) {
   /* Small computer or landscape tablet */
   HEADER, #content-wrap, FOOTER {
@@ -899,5 +956,21 @@ FOOTER {
     float: none;
     width: 100%;
     font-size: 89%;
+  }
+
+  .one-half,
+  .one-half.last {
+    float: none;
+    width: 100%;
+  }
+
+  .mailchimp {
+    font-size: 100%;
+    padding: 1em;
+  }
+
+  .mailchimp INPUT[type="submit"] {
+    position: static;
+    margin-top: 1em !important;
   }
 }

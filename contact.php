@@ -6,7 +6,23 @@ include "header.php";
 
 <h3>Contact</h3>
 
-<div class="form-left" style="margin-bottom: 2em;">
+<div class="mailchimp">
+  Please submit your email address to receive timely information about Louie's Last Regatta<br>
+  <!-- Begin MailChimp Signup Form -->
+  <form action="http://louieslast.us4.list-manage.com/subscribe/post" method="POST" style="width: 100%;">
+    <div>
+      <input type="hidden" name="u" value="b23085d512d7c9313b2f75d84">
+      <input type="hidden" name="id" value="7615da59fd">
+
+      <input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" size="25" value="">
+
+      <input type="submit" name="submit" value="Subscribe" id="submit">
+    </div>
+  </form>
+  <!-- End MailChimp Signup Form -->
+</div>
+
+<div class="one-half">
   <strong>Event<br>Milwaukee Ale House</strong><br>
   233 N. Water Street #1<br>
   Milwaukee, WI 53202<br>
@@ -19,41 +35,21 @@ include "header.php";
   Milwaukee, WI 53201<br>
   <br>
 
-  <strong>Board Phone (President)</strong><br>
-  414-530-8397<br>
-  262-951-0148<br>
-  <br>
-
   <strong>Email</strong><br>
-  <?php email("contactus@louieslast.org"); ?><br>
-  <br>
-
-  <strong>Officers &amp; Board of Directors</strong><br>
-  Gordy King<br>
-  Mary Livingston<br>
-  Tim Kent<br>
-  Rebecca Mueller<br>
-  Tiffany Cvikota<br>
-  Haley King, ad hoc member<br>
-  Francis Morton, ad hoc member<br>
-  Nick Cusatis, ad hoc member
+  <?php email("contactus@louieslast.org"); ?>
 </div>
 
-<div class="form-right">
-  <!-- Begin MailChimp Signup Form -->
-  <form action="http://louieslast.us4.list-manage.com/subscribe/post" method="POST" style="width: 100%;">
-    <div>
-      <input type="hidden" name="u" value="b23085d512d7c9313b2f75d84">
-      <input type="hidden" name="id" value="7615da59fd">
-
-      <strong>Please submit your email address to receive timely information about Louie's Last Regatta</strong><br>
-      <input type="email" autocapitalize="off" autocorrect="off" name="MERGE0" id="MERGE0" size="25" value=""><br>
-      <br>
-
-      <input type="submit" name="submit" value="Subscribe" id="submit">
-    </div>
-  </form>
-  <!-- End MailChimp Signup Form -->
+<div class="one-half last">
+  <strong>Committee</strong><br>
+  Gordy King<br>
+  Mary Livingston<br>
+  Rebecca Mueller<br>
+  Sir Jon Mueller<br>
+  Tiffany Cvikota<br>
+  Song Xiong<br>
+  Angie Doggett<br>
+  Francis Morton<br>
+  Nick Cusatis
 </div>
 
 <div style="clear: both;"></div>

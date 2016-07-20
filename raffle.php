@@ -10,6 +10,6 @@ Louie's Last Regatta hosts a raffle during the event. All sorts of items will be
 <br>
 
 <strong>Donate to the Raffle or Silent Auction</strong><br>
-If you have an item to donate - please contribute. To donate an item, email <?php email("contactus@louieslast.org"); ?>. Thank you!
+If you have an item to donate - please contribute. To donate an item, email <?php email("auction@louieslast.org"); ?>. Thank you!
 
 <?php include "footer.php"; ?>

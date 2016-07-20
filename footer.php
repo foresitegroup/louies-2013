@@ -2,18 +2,18 @@
 
         <aside>
           <?php if ($PageTitle != "") { ?>
-          <a href="<?php echo $TopDir; ?>fundraising-levels-and-awards.php" class="spiff spiff-right">
+          <!-- <a href="<?php //echo $TopDir; ?>fundraising-levels-and-awards.php" class="spiff spiff-right">
             <span class="arrow">&rsaquo;</span>
             <h2 style="line-height: 1.1em;">Fundraising Levels and Awards</h2>
             Louie's gear and apparel will be awarded for achieving fundraising levels.
-          </a>
+          </a> -->
           <?php if (strtotime("now") <= strtotime("4 September 2014 11:59pm")) { // Note: server is on Eastern Time ?>
           <a href="https://www.regattanetwork.com/clubmgmt/applet_storefront.php?regatta_id=8833" class="spiff spiff-mid" id="banner">
             <h2 style="line-height: 1.1em;">Technical Tees Preorder Available Through September 4th Only</h2>
             <strong>Very few will be available for sale at the event so order now!</strong>
           </a>
           <?php } ?>
-          <div style="clear: both; height: 2em;"></div>
+          <!-- <div style="clear: both; height: 2em;"></div> -->
           <?php } ?>
 
           <a href="<?php echo $TopDir; ?>entry.php" class="spiff spiff-left">

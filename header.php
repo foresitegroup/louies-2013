@@ -21,7 +21,7 @@ function email($address, $name="") {
 
     <meta name="viewport" content="width=device-width">
     <link href='http://fonts.googleapis.com/css?family=Bevan|Open+Sans:400,400italic,600,600italic,700,700italic' rel='stylesheet' type='text/css'>
-    <link rel="stylesheet" href="<?php echo $TopDir; ?>inc/main.css">
+    <link rel="stylesheet" href="<?php echo $TopDir; ?>inc/main.css?<?php echo filemtime(realpath(dirname(__FILE__)) . "/inc/main.css"); ?>">
 
     <script type="text/javascript" src="<?php echo $TopDir; ?>inc/jquery-1.10.2.min.js"></script>
     <script type="text/javascript" src="<?php echo $TopDir; ?>inc/bootstrap-collapse.js"></script>
@@ -82,7 +82,6 @@ function email($address, $name="") {
                   <li><a href="<?php echo $TopDir; ?>regatta.php">Regatta</a></li>
                   <li><a href="<?php echo $TopDir; ?>trophies.php">Trophies</a></li>
                   <li><a href="<?php echo $TopDir; ?>raffle.php">Raffle/Silent Auction</a></li>
-                  <li><a href="http://louieslast.miiduu.com">Louie's Store</a></li>
                 </ul>
               </li>
               <li>
