@@ -22,12 +22,12 @@ Sanctioned bribery during the post-race party. This is an opportunity for boat c
 <br>
 
 <strong>Razoo (Online Fundraising Page for You or Your Boat)</strong><br>
-Use Razoo to make direct donation(s) from boat crews, friends and family to Children's Hospital prior to and after the regatta. Boat crew members can go to the <a href="http://www.razoo.com/story/Louies17lastregatta">online donation site at Razoo</a>, find and/or register their boat and give a donation via their credit card.<br>
+Use Razoo to make direct donation(s) from boat crews, friends and family to Children's Hospital prior to and after the regatta. Boat crew members can go to the <a href="https://www.razoo.com/us/story/Louieslastregatta">online donation site at Razoo</a>, find and/or register their boat and give a donation via their credit card.<br>
 <br>
 
 <strong>Give Raffle Items</strong><br>
 
-Gifts can be given for the raffle held during the post-race party. To give items please contact Gordy King at 414-530-8397 or contact us at <?php email("contactus@louislast.org"); ?>. Deliveries can be made out to the Milwaukee Ale House: 233 N Water St #1, Milwaukee, WI 53202.<br>
+Gifts can be given for the raffle held during the post-race party. To give items please contact Gordy King at 414-530-8397 or contact us at <?php email("contactus@louieslast.org"); ?>. Deliveries can be made out to the Milwaukee Ale House: 233 N Water St #1, Milwaukee, WI 53202.<br>
 <br>
 
 <div class="toggle-box spiff-mid">
@@ -89,7 +89,7 @@ Gifts can be given for the raffle held during the post-race party. To give items
     <br>
 
     <div style="width: 90%; margin: 0 auto; border: 1px solid #FFFFFF; padding: 0.7em 1em; font-size: 85%; line-height: 1.4em;">
-      <div style="font-weight: bold; text-align: center;">Louie's Last Regatta, Inc. online fundraising has moved to a new platform through Razoo (<a href="http://www.razoo.com">www.razoo.com</a>, specifically <a href="http://www.razoo.com/story/Louies17lastregatta">www.razoo.com/story/Louies17lastregatta</a>).<br>Several reasons for this are:</div>
+      <div style="font-weight: bold; text-align: center;">Louie's Last Regatta, Inc. online fundraising has moved to a new platform through Razoo (<a href="http://www.razoo.com">www.razoo.com</a>, specifically <a href="https://www.razoo.com/us/story/Louieslastregatta">www.razoo.com/us/story/Louieslastregatta</a>).<br>Several reasons for this are:</div>
       <ol>
         <li>Razoo charges a flat 4.9% fee per contribution. The previous vendor charged 7.5% per contribution (plus $500/year). For every $1,000,000 raised online, that's $26,000 more that will go to Children's Hospital of Wisconsin!</li>
         <li>You only need to set up your page once with Razoo. The previous vendor had a new Louie's event created each year, so you needed to set up a new page every year. Not any longer. Just go in your page next year and update areas you want to, add/change pictures, stories, etc.</li>
