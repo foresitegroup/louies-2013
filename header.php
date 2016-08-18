@@ -80,6 +80,7 @@ function email($address, $name="") {
                 <a href="<?php echo $TopDir; ?>the-event.php">The Event</a>
                 <ul>
                   <li><a href="<?php echo $TopDir; ?>regatta.php">Regatta</a></li>
+                  <li><a href="http://mhyc.org/club-2/events/2016-poker-run/">Poker Run</a></li>
                   <li><a href="<?php echo $TopDir; ?>trophies.php">Trophies</a></li>
                   <li><a href="<?php echo $TopDir; ?>raffle.php">Raffle/Silent Auction</a></li>
                 </ul>
