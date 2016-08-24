@@ -7,6 +7,30 @@ include "header.php";
 <h3>Videos</h3>
 
 <div class="video">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/k9Ts8jXw5mI?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<br><br>
+
+<div class="video">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/sTHBzdv4U2Y?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<br><br>
+
+<div class="video">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/NfrmrAtgyKI?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<br><br>
+
+<div class="video">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/dmIduzaVa58?rel=0" frameborder="0" allowfullscreen></iframe>
+</div>
+
+<br><br>
+
+<div class="video">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/ahIsGgbHPR8?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
 
