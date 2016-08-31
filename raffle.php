@@ -1,10 +1,10 @@
 <?php
-$PageTitle = "2015 Raffle / Silent Auction";
+$PageTitle = "2016 Raffle / Silent Auction";
 $SideImage = "raffle-side.jpg";
 include "header.php";
 ?>
 
-<h3>2015 Raffle / Silent Auction</h3>
+<h3>2016 Raffle / Silent Auction</h3>
 
 Louie's Last Regatta hosts a raffle during the event. All sorts of items will be available to bid on, from sailing gear and equipment to nights out on the town and gift baskets, etc..<br>
 <br>
