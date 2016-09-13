@@ -5,6 +5,7 @@
 #00539F - dark blue
 #00ABA2 - green
 #DF7B1D - orange
+#8A1F2F - red
 */
 
 html, body { height: 100%; } /*Sticky footer*/
@@ -72,6 +73,14 @@ H3 {
   font-weight: normal;
   margin: 1em 0 1.5em;
   color: #00539F;
+}
+
+H4 {
+  font-size: 150%;
+  font-family: Bevan, Rockwell, Arvo, 'Palatino Linotype', 'Book Antiqua', Palatino, 'Times New Roman', serif;
+  font-weight: normal;
+  margin: 1em 0 0.5em;
+  color: #8A1F2F;
 }
 
 UL, OL {

@@ -23,5 +23,15 @@ Louie's 18th Last Regatta will be held this year on September 24th. The skippers
   <li>Live Music</li>
   <li>Award Ceremony</li>
 </ul>
+<br>
+
+<h4>New This Year!</h4>
+The awards will be given out the night of the event.<br>
+<br>
+
+Online Razoo donations will not be counted after 12:00 noon on Thursday, September 22nd.<br>
+<br>
+
+Green Envelopes need to be turned in at the Ale House by 3:30pm on Saturday, September 24th.
 
 <?php include "footer.php"; ?>

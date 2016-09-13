@@ -17,7 +17,7 @@ include "header.php";
     
     <div class="one-third">
       <strong>Skippers Meeting</strong><br>
-      September 23
+      September 23 7:00pm
     </div>
     
     <div class="one-third last">
