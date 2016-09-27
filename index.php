@@ -9,7 +9,7 @@ include "header.php";
     Louie's is one of the nation's largest fundraising regattas. It is a fun filled weekend of sailing and fundraising for Children's Hospital of Wisconsin.<br>
     <br>
 
-    <h2>Important Dates for 2016</h2>
+    <!-- <h2>Important Dates for 2016</h2>
     <div class="one-third">
       <strong>Kick-Off Party</strong><br>
       May 12 7:00pm
@@ -26,10 +26,13 @@ include "header.php";
     </div>
 
     <div style="clear: both;"></div>
+    <br> -->
+    <h2>2016 Results</h2>
+    <a href="results.php">View the results!</a><br>
     <br>
 
-    <h2>Videos From Louie's 2015</h2>
-    We've added a couple of gorgeous videos to our new video page. <a href="videos.php">Check them out!</a>
+    <h2>Videos From Louie's 2016</h2>
+    <a href="videos.php">Check out</a> the Fox 6 story on this year's race!
   </div> <!-- END frosted -->
 </div> <!-- END vertical-center -->
 

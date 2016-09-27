@@ -46,6 +46,47 @@ function Color($spiff) {
 ?>
 
 <div class="toggle-box spiff-<?php $spiff = Color($spiff); echo $spiff; ?>">
+  <h3>2016</h3>
+  <div class="toggle-control" data-text="expand &#9660;" data-expanded-text="contract &#9650;">expand &#9660;</div>
+  <div style="clear: both;"></div>
+  <div class="toggle-content">
+    <!-- <a href="pdfs/2016_Results.pdf">Complete Results</a><br>
+    <br> -->
+    <a href="http://www.regattanetwork.com/clubmgmt/applet_regatta_results.php?regatta_id=13313&show_divisions=1">Complete Results</a><br>
+    <br>
+
+    <strong>O-Gii</strong><br>
+    1st - Defiance<br>
+    2nd - Promo<br>
+    3rd - Imeldi<br>
+    <br>
+
+    <strong>Outboard</strong><br>
+    1st - Sabotage<br>
+    2nd - Debbia<br>
+    3rd - Meltdown<br>
+    <br>
+
+    <strong>Cutlass - Most Uniquely Attired Crew</strong><br>
+    MAI TAI<br>
+    <br>
+
+    <strong>Maggie Bersch Memorial Cup for Top Fundraiser</strong><br>
+    1st - Debbia<br>
+    2nd - Dirty Vicar Racing<br>
+    3rd - Firefly<br>
+    Honorable Mention - YOLO<br>
+    <br>
+
+    <strong>Debbia Grassroots Cup for Highest Number of Individual Donors</strong><br>
+    1st - Debbia<br>
+    2nd - YOLO<br>
+    3rd - Firefly<br>
+    Honorable Mention - Eclipse<br>
+  </div>
+</div>
+
+<div class="toggle-box spiff-<?php $spiff = Color($spiff); echo $spiff; ?>">
   <h3>2015</h3>
   <div class="toggle-control" data-text="expand &#9660;" data-expanded-text="contract &#9650;">expand &#9660;</div>
   <div style="clear: both;"></div>

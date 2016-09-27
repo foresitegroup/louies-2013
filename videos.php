@@ -6,6 +6,13 @@ include "header.php";
 
 <h3>Videos</h3>
 
+<strong>Fox 6 Interview on 2016 Race</strong><br>
+<div class="video">
+  <script height="433px" width="770px" src="http://player.ooyala.com/iframe.js#pbid=f7575286f810429a979346d9a69caaef&ec=hvaDk0NjE65EJeynmNzUvAdHimGpXol2"></script>
+</div>
+
+<br><br>
+
 <div class="video">
   <iframe width="560" height="315" src="https://www.youtube.com/embed/k9Ts8jXw5mI?rel=0" frameborder="0" allowfullscreen></iframe>
 </div>
