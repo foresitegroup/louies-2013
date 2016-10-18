@@ -32,7 +32,10 @@ include "header.php";
     <br>
 
     <h2>Videos From Louie's 2016</h2>
-    <a href="videos.php">Check out</a> the Fox 6 story on this year's race!
+    <a href="videos.php">Check out</a> the Fox 6 story on this year's race!<br>
+    <br>
+
+    <a href="gallery.php">Purchase Photo Prints from Louie's 18th!</a>
   </div> <!-- END frosted -->
 </div> <!-- END vertical-center -->
 

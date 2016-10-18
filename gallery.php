@@ -4,16 +4,25 @@ $SideImage = "";
 include "header.php";
 ?>
 
+<link rel="stylesheet" href="inc/jquery.fancybox.css">
+<script type="text/javascript" src="inc/jquery.fancybox.pack.js"></script>
+<script type="text/javascript">
+  $(document).ready(function() { $(".fancybox").fancybox(); });
+</script>
+
 <h3>Gallery</h3>
 
 <strong>Share Your Photos &amp; Videos With Us!</strong><br>
-Your Louie's Committee is looking for pictures to share with everyone on Facebook. Show off any great photos (or videos) you've taken on the <a href="http://www.facebook.com/LouiesLastRegatta">Louie's Last Regatta Facebook page</a>.<!--  Also please visit <a href="http://knotjustracing.smugmug.com/Sailing-Events/Louies-Last-Regatta-2014/44645130_3TrmDQ">Chris Gribble's (the official Louie's photographer) website</a> for more event photos. --><br>
+Your Louie's Committee is looking for pictures to share with everyone on Facebook. Show off any great photos (or videos) you've taken on the <a href="http://www.facebook.com/LouiesLastRegatta">Louie's Last Regatta Facebook page</a>.<br>
 <br>
 
-<strong>2015 Louie's Last Regatta</strong><br>
-<div id="gallery">
+100% of the proceeds from your photo purchases goes straight to Children's Hospital of Wisconsin!<br>
+<br>
+
+<strong>2016 Louie's Last Regatta</strong><br>
+<div id="gallery-foto">
   <?php
-  $main_dir = "images/galleries/2015";
+  $main_dir = "images/galleries/2016";
 
   $files = scandir($main_dir);
   foreach($files as $file) {
@@ -27,20 +36,38 @@ Your Louie's Committee is looking for pictures to share with everyone on Faceboo
   natcasesort($results);
 
   foreach($results as $result) {
-    list($width, $height, $type, $attr) = getimagesize($result);
+    echo "<a href=\"$result\" class=\"swipebox\"><img src=\"$result\" alt=\"\"></a><br><br>\n";
+  }
+  ?>
 
-    $ratio = ceil(($width / $height) * 100);
-    $adjust = ($ratio - 100) / 2;
+  <div style="clear: both;"></div><br>
+  <br>
 
-    $adj_pos = ($width/$height > 1) ? "width: " . $ratio . "%; left: -" . $adjust . "%;" : "width: 100%; top: " . $adjust . "%;";
+  <strong>Photo Booth</strong><br>
+  <?php
+  $results = array();
+  $main_dir = "images/galleries/2016-photobooth";
 
-    $name = pathinfo(basename($result), PATHINFO_FILENAME);
+  $files = scandir($main_dir);
+  foreach($files as $file) {
+    // Ignore non-files
+    if ($file == "." || $file == "..") continue;
 
-    echo "<div class=\"resize\"><a href=\"$result\" class=\"swipebox\"><img src=\"$result\" alt=\"$name\" style=\"$adj_pos\"></a></div>\n";
+    // Put results into an array
+    $results[] = $main_dir . "/" . $file;
+  }
+
+  natcasesort($results);
+
+  foreach($results as $result) {
+    echo "<a href=\"$result\" class=\"swipebox\"><img src=\"$result\" alt=\"$name\"></a><br><br>\n";
   }
   ?>
 
   <div style="clear: both;"></div>
 </div>
+
+<script type="text/javascript" src="//widget.fotomoto.com/stores/script/950b78e7b7b6a212636d43a95f2a3cbf8ab66b37.js"></script>
+<noscript>If Javascript is disabled in your browser, to place orders please visit the page where I <a href=' http://my.fotomoto.com/store/950b78e7b7b6a212636d43a95f2a3cbf8ab66b37'>sell my photos</a>, powered by <a href='http://my.fotomoto.com'>Fotomoto</a>.</noscript>
 
 <?php include "footer.php"; ?>
