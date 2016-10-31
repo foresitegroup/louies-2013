@@ -9,17 +9,22 @@ include "header.php";
     Louie's is one of the nation's largest fundraising regattas. It is a fun filled weekend of sailing and fundraising for Children's Hospital of Wisconsin.<br>
     <br>
 
+    <h2>Watch Party Details</h2>
+    Join us for the unveiling of the Louie's 18th Last Regatta video on Thursday, November 17th at the Milwaukee Ale House. Happy Hour runs from 5:00 to 6:00pm, followed by the viewing of the video at 6:00pm.<br>
+    <a href="https://www.youtube.com/watch?v=Mx2pc00NrSQ">Take a peek at the teaser trailer!</a><br>
+    <br>
+
     <!-- <h2>Important Dates for 2016</h2>
     <div class="one-third">
       <strong>Kick-Off Party</strong><br>
       May 12 7:00pm
     </div>
-    
+
     <div class="one-third">
       <strong>Skippers Meeting</strong><br>
       September 23 7:00pm
     </div>
-    
+
     <div class="one-third last">
       <strong>Louie's Last Regatta</strong><br>
       September 24
