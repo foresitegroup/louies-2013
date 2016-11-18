@@ -290,6 +290,12 @@ HEADER {
   position: relative;
 }
 
+@media only screen and (max-height: 1116px) {
+  #home #content-wrap {
+    margin-bottom: 144px;
+  }
+}
+
 ARTICLE {
   float: left;
   width: 58.26%;
